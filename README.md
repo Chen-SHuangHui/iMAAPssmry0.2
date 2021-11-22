@@ -6,7 +6,7 @@ For more details of iMAAPs, see https://github.com/Shuhua-Group/iMAAPs.
 
 **iMAAPssmry V0.2**
 
-```iMAAPssmry``` is an R package providing the function to summary spectrum and admixture time interval of the output files of iMAAPs.
+```iMAAPssmry``` is an R package providing the function to summarize spectrum and admixture time interval of the output files of iMAAPs.
 
 ## Install and load the package
 To install the package, please use ```devtools```
@@ -16,6 +16,7 @@ library(iMAAPssmry0.2);
 ```
 
 ## Summary spectrum and admixture time interval
+Here is an example to summarize the toy data.
 ```
 data(ad_inp);
 data(rawld_inp);
